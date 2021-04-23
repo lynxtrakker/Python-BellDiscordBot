@@ -615,4 +615,4 @@ async def unmute(ctx, member: discord.Member):
 keep_alive()
 #this is what connects the bot
 
-client.run(os.getenv('TOKEN'))
+client.run('Put your token here')
